@@ -1,0 +1,5 @@
+BasedOnStyle: LLVM             
+Language: Cpp
+ColumnLimit: 125
+KeepEmptyLinesAtTheStartOfBlocks: true
+IndentWidth: 4
